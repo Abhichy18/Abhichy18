@@ -28,7 +28,7 @@
 
 </div>
 
-<img align="right" src="https://img.freepik.com/premium-photo/student-doing-coding-his-computer-setup_939033-14080.jpg" width="380" style="border-radius: 12px; margin-left: 20px;" alt="Coding Setup" />
+<img align="right" src="avatar.jpg" width="380" style="border-radius: 12px; margin-left: 20px;" alt="Coding Setup" />
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> About Me
 Building intelligent AI systems that turn cutting-edge research into real-world impact.
@@ -54,7 +54,7 @@ Building intelligent AI systems that turn cutting-edge research into real-world 
 
 ---
 
-## 🔥 Featured Projects
+## <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=700&size=26&color=F8FAFC&vCenter=true&width=350&lines=🔥+Featured+Projects;🚀+Recent+Work;🧠+AI+Developments" alt="Featured Projects" />
 
 ### 🐾 [Zoo Guide Agent (ADK + LangChain + GCP)](https://github.com/Abhichy18/Zoo-guide-agent)
 > **An AI-powered Zoo Tour Guide Agent** that intelligently answers user queries by combining internal zoo data with external knowledge (Wikipedia).
@@ -86,3 +86,4 @@ Building intelligent AI systems that turn cutting-edge research into real-world 
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Abhichy18_Abhichy18" alt="Visitor Badge" />
   </a>
 </p>
+
