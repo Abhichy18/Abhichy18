@@ -86,4 +86,14 @@ Building intelligent AI systems that turn cutting-edge research into real-world 
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Abhichy18_Abhichy18" alt="Visitor Badge" />
   </a>
 </p>
+<div align="center">
 
+## 🏆 GitHub Achievements 🏆
+
+<a href="https://github.com/Abhichy18">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhichy18&theme=dracula&no-bg=true&no-frame=true&margin-w=5&margin-h=5&row=1&column=8" alt="Abhichy18's Trophies" />
+</a>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+</div>
